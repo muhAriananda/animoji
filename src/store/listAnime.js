@@ -372,6 +372,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/249/InuYasha',
   },
   {
+    animeEmoji: '🐕 👴🏻 🦾 🌏 💥',
+    animeName: 'Inuyashiki',
+    animeYear: 2017,
+    animeLink: 'https://myanimelist.net/anime/34542/Inuyashiki',
+  },
+  {
     animeEmoji: '👊🏻💪🏻🤴🏻⚔️😎',
     animeName: 'K',
     animeYear: 2012,
